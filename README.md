@@ -149,13 +149,10 @@ I specialize in building PHP application that do website or web app. As a conten
 
 ## Github Snake 
 
-###
 
-<br clear="both">
-
+![snake gif](https://raw.githubusercontent.com/kuyagep/kuyagep/output/github-contribution-grid-snake.gif)
 
 
-###
 
 <br/> 
 
