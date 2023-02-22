@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://gist.githubusercontent.com/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif" align="center" style="width: 100%" />
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hktxpxzu572dwzswr3dbouvipq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
 </div>  
   
 
