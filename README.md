@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://gist.githubusercontent.com/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif" align="center" style="width: 100%" />
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hktxpxzu572dwzswr3dbouvipq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
-</div>  
+<img src="https://gist.githubusercontent.com/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif" align="center" style="width: 100%" /> 
   
+</div>  
+
 
 ## Hey 👋, I'm Geperson Mamalias!, a Web Developer 👨‍💻 working since 2023 🚀  
   
@@ -142,8 +142,8 @@ I specialize in building PHP application that do website or web app. As a conten
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&username=kuyagep" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blue-green&hide_border=true&username=kuyagep" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&username=kuyagep" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blue-green&hide_border=true&username=kuyagep" height="200" alt="languages graph"  />
 </div>
 
 ###
