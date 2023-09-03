@@ -28,9 +28,9 @@
 
 
 ### Glad to see you here!  
-I’m a Web Developer who has passionate to develop web application. Being a web developer allows me to enhance my capacity in various system and websites but I also develop with cutting edge backend support.
+I'm a web developer who is passionate about developing web applications. Being a web developer allows me to enhance my skills across various systems and websites, and I also work with cutting-edge backend support.
 
-I specialize in building PHP application that do website or web app. As a content creator I love programming,  designing and making YouTube videos that are informative and powerful.   
+I specialize in building PHP applications for websites and web apps. As a content creator, I love programming, designing, and creating informative and powerful YouTube videos.   
   
 
 <br/>   
