@@ -2,7 +2,7 @@
 <div align="center"><img src="https://gist.githubusercontent.com/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif" align="center" style="width: 100%" /> </div>
 
 
-## Hey 👋, I'm Geperson Mamalias!, a Web Developer 👨‍💻 working since 2023 🚀  
+## Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Geperson Mamalias!, a Web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> working since 2023 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />  
   
 
 <a href="https://github.com/kuyagep" target="_blank">
@@ -37,22 +37,22 @@ I specialize in building PHP applications for websites and web apps. As a conten
  
  ### Rapidfire  
 
-- 🔭 The owner of [WebSpark](https://webspark.io/)  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> The owner of [WebSpark](https://webspark.io/)  
   
 
-- 🌱 I’m currently learning PHP, JavaScript & Laravel Framework  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I’m currently learning PHP, JavaScript, Laravel Framework & DevOps
   
 
-- ❓ Ask me about anything related to web development stack and related technologies  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" /> Ask me about anything related to web development stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Fun fact: I use tabs over spaces  
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
 
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -150,7 +150,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 
 
-### Frontend  
+### Frontend  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -171,7 +171,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 
 
-### Backend  
+### Backend  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -188,7 +188,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 
 
-### DevOps  
+### DevOps  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
@@ -199,7 +199,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 
 
-## Github Stats  
+## Github Stats  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Sun Behind Cloud" width="25" height="25" />
 
 ###
 
@@ -210,7 +210,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ###
 
-## Github Snake 
+## Github Snake <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="25" height="25" />
 <div align="center">
       <img alt="github-snake" src="https://raw.githubusercontent.com/kuyagep/kuyagep/output/github-contribution-grid-snake-dark.svg" />
 </div>
