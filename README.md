@@ -186,8 +186,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 </div>
 
 <div>
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="profile-3d-contrib/profile-night-green.svg" />
 </div>
 
 ## Github Snake <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="25" height="25" />
