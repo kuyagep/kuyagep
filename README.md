@@ -82,7 +82,68 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <img src=https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white style="margin-bottom: 5px;" />
 </a> 
 <a href="#" target="_blank">
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<img src=https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000 style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white style="margin-bottom: 5px;" />
 </a> 
 
 <table><tr><td valign="top" width="33%">
