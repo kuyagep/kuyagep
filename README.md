@@ -215,7 +215,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kuyagep/kuyagep/output/github-contribution-grid-snake.svg?palette=github-dark" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kuyagep/kuyagep/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
