@@ -198,6 +198,11 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 <br/>
 
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br/>
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hktxpxzu572dwzswr3dbouvipq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
