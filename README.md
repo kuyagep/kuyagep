@@ -200,7 +200,16 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eW3u9bdnhwE"><img width="140px" src="http://img.youtube.com/vi/eW3u9bdnhwE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eW3u9bdnhwE">#javascipt #education #css #projectmanagement #javadevelopment #projectmanagementsoftware #coding</a><br/>May 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QwFt57N8MjA"><img width="140px" src="http://img.youtube.com/vi/QwFt57N8MjA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QwFt57N8MjA">El Filibusterismo Background Music</a><br/>Apr 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fpxVo1zh-eM"><img width="140px" src="http://img.youtube.com/vi/fpxVo1zh-eM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fpxVo1zh-eM">Noli Me Tangere Background Music</a><br/>Apr 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v0vSzbBvdZY"><img width="140px" src="http://img.youtube.com/vi/v0vSzbBvdZY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v0vSzbBvdZY">How to install HP ScanJet 2500 PRO f1</a><br/>Apr 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wEkDomvfVfs"><img width="140px" src="http://img.youtube.com/vi/wEkDomvfVfs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wEkDomvfVfs">IT Prof Elc5 - T01 Project Management</a><br/>Apr 17, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
