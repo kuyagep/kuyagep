@@ -200,7 +200,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LbSxo-Vbl0c"><img width="140px" src="http://img.youtube.com/vi/LbSxo-Vbl0c/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LbSxo-Vbl0c">BAGONG PILIPINAS HYMN LATEST VERSION HD 2024</a><br/>Nov 22, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=LbSxo-Vbl0c">BAGONG PILIPINAS HYMN WITH LYRICS &lpar;Panahon na ng Pagbabago&rpar; LATEST VERSION 1080HD 2024</a><br/>Nov 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MlTL8cR1icM"><img width="140px" src="http://img.youtube.com/vi/MlTL8cR1icM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MlTL8cR1icM">PHILIPPINE NATIONAL ANTHEM WITH LYRICS HD 2024</a><br/>Nov 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fokf-fr9NMM"><img width="140px" src="http://img.youtube.com/vi/fokf-fr9NMM/maxresdefault.jpg"></a></td>
