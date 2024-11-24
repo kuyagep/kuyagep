@@ -199,8 +199,8 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M_M3yxGNYVs"><img width="140px" src="http://img.youtube.com/vi/M_M3yxGNYVs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M_M3yxGNYVs">DEPED QUALITY POLICY STATEMENT - &lpar;DepEd Order No. 009, s. 2021&rpar;</a><br/>Nov 24, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U"><img width="140px" src="http://img.youtube.com/vi/RPAcq8TkZ_U/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U">DEPED QUALITY POLICY STATEMENT &lpar;DepEd Order No. 009, s. 2021&rpar;</a><br/>Nov 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s"><img width="140px" src="http://img.youtube.com/vi/XFm2rwm8l5s/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s">PRAYER FOR SEMINARS, TRAININGS, OR WORKSHOPS WITH SUBTITLE</a><br/>Nov 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LbSxo-Vbl0c"><img width="140px" src="http://img.youtube.com/vi/LbSxo-Vbl0c/maxresdefault.jpg"></a></td>
