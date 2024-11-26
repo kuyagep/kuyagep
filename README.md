@@ -199,7 +199,9 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U"><img width="140px" src="http://img.youtube.com/vi/RPAcq8TkZ_U/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b2jCZuhebAE"><img width="140px" src="http://img.youtube.com/vi/b2jCZuhebAE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b2jCZuhebAE">I AM CREATING A LOGIN SYSTEM USING LARAVEL</a><br/>Nov 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U"><img width="140px" src="http://img.youtube.com/vi/RPAcq8TkZ_U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U">DEPED QUALITY POLICY STATEMENT &lpar;DepEd Order No. 009, s. 2021&rpar;</a><br/>Nov 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s"><img width="140px" src="http://img.youtube.com/vi/XFm2rwm8l5s/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s">PRAYER FOR SEMINARS, TRAININGS, OR WORKSHOPS WITH SUBTITLE</a><br/>Nov 24, 2024</td></tr></table>
@@ -207,8 +209,6 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <td><a href="https://www.youtube.com/watch?v=LbSxo-Vbl0c">BAGONG PILIPINAS HYMN WITH LYRICS &lpar;Panahon na ng Pagbabago&rpar; LATEST VERSION 1080HD 2024</a><br/>Nov 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MlTL8cR1icM"><img width="140px" src="http://img.youtube.com/vi/MlTL8cR1icM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MlTL8cR1icM">PHILIPPINE NATIONAL ANTHEM WITH LYRICS HD 2024</a><br/>Nov 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fokf-fr9NMM"><img width="140px" src="http://img.youtube.com/vi/fokf-fr9NMM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fokf-fr9NMM">OPENING PRAYER FOR SEMINARS, MEETINGS, AND TRANINGS HD 2024</a><br/>Nov 22, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
