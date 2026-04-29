@@ -199,7 +199,9 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=npHCAm2jPgQ"><img width="140px" src="http://img.youtube.com/vi/npHCAm2jPgQ/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A"><img width="140px" src="http://img.youtube.com/vi/ACHFnYObu3A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A">Pisonet Management System | Full Stack Tutorial | Part 5</a><br/>Apr 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=npHCAm2jPgQ"><img width="140px" src="http://img.youtube.com/vi/npHCAm2jPgQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=npHCAm2jPgQ">Pisonet Management System | Full Stack Tutorial | Part 4</a><br/>Apr 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u2_szVMQnS0"><img width="140px" src="http://img.youtube.com/vi/u2_szVMQnS0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u2_szVMQnS0">Pisonet Management System | Full Stack Tutorial | Part 3</a><br/>Apr 28, 2026</td></tr></table>
@@ -207,8 +209,6 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <td><a href="https://www.youtube.com/watch?v=VO3UbWpxbmE">Pisonet Management System | Full Stack Tutorial | Part 2</a><br/>Apr 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xVWyk9qvGm8"><img width="140px" src="http://img.youtube.com/vi/xVWyk9qvGm8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xVWyk9qvGm8">Pisonet Management System | Full Stack Tutorial | Part 1</a><br/>Apr 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=b2jCZuhebAE"><img width="140px" src="http://img.youtube.com/vi/b2jCZuhebAE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b2jCZuhebAE">I AM CREATING A LOGIN SYSTEM USING LARAVEL</a><br/>Nov 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
