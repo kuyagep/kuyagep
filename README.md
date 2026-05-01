@@ -200,7 +200,7 @@ I specialize in building PHP applications for websites and web apps. As a conten
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU"><img width="140px" src="http://img.youtube.com/vi/hUMkDeyQDVU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU">Pisonet Management System | Full Stack Tutorial | Part 6</a><br/>Apr 30, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU">Pisonet Management System | Full Stack Tutorial | Part 6</a><br/>May 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A"><img width="140px" src="http://img.youtube.com/vi/ACHFnYObu3A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A">Pisonet Management System | Full Stack Tutorial | Part 5</a><br/>Apr 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=npHCAm2jPgQ"><img width="140px" src="http://img.youtube.com/vi/npHCAm2jPgQ/maxresdefault.jpg"></a></td>
