@@ -199,7 +199,9 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU"><img width="140px" src="http://img.youtube.com/vi/hUMkDeyQDVU/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=huHDJYc88tU"><img width="140px" src="http://img.youtube.com/vi/huHDJYc88tU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=huHDJYc88tU">PAANO GUMAWA NG SIMPLE WEB PAGE</a><br/>May 4, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU"><img width="140px" src="http://img.youtube.com/vi/hUMkDeyQDVU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hUMkDeyQDVU">Pisonet Management System | Full Stack Tutorial | Part 6</a><br/>May 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A"><img width="140px" src="http://img.youtube.com/vi/ACHFnYObu3A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ACHFnYObu3A">Pisonet Management System | Full Stack Tutorial | Part 5</a><br/>Apr 29, 2026</td></tr></table>
@@ -207,8 +209,6 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <td><a href="https://www.youtube.com/watch?v=npHCAm2jPgQ">Pisonet Management System | Full Stack Tutorial | Part 4</a><br/>Apr 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u2_szVMQnS0"><img width="140px" src="http://img.youtube.com/vi/u2_szVMQnS0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u2_szVMQnS0">Pisonet Management System | Full Stack Tutorial | Part 3</a><br/>Apr 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VO3UbWpxbmE"><img width="140px" src="http://img.youtube.com/vi/VO3UbWpxbmE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VO3UbWpxbmE">Pisonet Management System | Full Stack Tutorial | Part 2</a><br/>Apr 27, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
