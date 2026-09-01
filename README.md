@@ -199,7 +199,9 @@ I specialize in building PHP applications for websites and web apps. As a conten
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aEEQGMKsoH0"><img width="140px" src="http://img.youtube.com/vi/aEEQGMKsoH0/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WoPp4ycqj6o"><img width="140px" src="http://img.youtube.com/vi/WoPp4ycqj6o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WoPp4ycqj6o">𝐀𝐧𝐠 𝐌𝐚𝐭𝐮𝐰𝐢𝐝 𝐧𝐚 𝐋𝐚𝐧𝐝𝐚𝐬: 𝐀 𝐒𝐨𝐧𝐠 𝐨𝐟 𝐅𝐚𝐢𝐭𝐡, 𝐇𝐨𝐩𝐞, 𝐚𝐧𝐝 𝐚 𝐋𝐢𝐟𝐞 𝐆𝐮𝐢𝐝𝐞𝐝 𝐛𝐲 𝐆𝐨𝐝</a><br/>Sep 1, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aEEQGMKsoH0"><img width="140px" src="http://img.youtube.com/vi/aEEQGMKsoH0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aEEQGMKsoH0">PRAYER FOR WEMINARS, TRAININGS, OR WORKSHOPS</a><br/>Jul 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=huHDJYc88tU"><img width="140px" src="http://img.youtube.com/vi/huHDJYc88tU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=huHDJYc88tU">PAANO GUMAWA NG SIMPLE WEB PAGE</a><br/>May 4, 2026</td></tr></table>
@@ -207,8 +209,6 @@ I specialize in building PHP applications for websites and web apps. As a conten
 <td><a href="https://www.youtube.com/watch?v=b2jCZuhebAE">I AM CREATING A LOGIN SYSTEM USING LARAVEL</a><br/>Nov 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U"><img width="140px" src="http://img.youtube.com/vi/RPAcq8TkZ_U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RPAcq8TkZ_U">DEPED QUALITY POLICY STATEMENT &lpar;DepEd Order No. 009, s. 2021&rpar;</a><br/>Nov 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s"><img width="140px" src="http://img.youtube.com/vi/XFm2rwm8l5s/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XFm2rwm8l5s">PRAYER FOR SEMINARS, TRAININGS, OR WORKSHOPS WITH SUBTITLE</a><br/>Nov 24, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
